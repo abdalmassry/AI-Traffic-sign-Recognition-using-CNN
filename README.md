@@ -1,5 +1,7 @@
 # Build a GUI AI Traffic Sign Recognition Project using CNN
 
+you can find explaination of the code on my channel on [Youtube](https://youtu.be/NNSq967DKxE)
+
 The goals / steps of this project are the following:
 * Load the data set：[German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 * Explore, summarize and visualize the data set
